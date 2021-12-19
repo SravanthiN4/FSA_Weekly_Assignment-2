@@ -1,0 +1,112 @@
+.categories {
+	display: flex;
+	flex-flow: column wrap;
+	justify-content: flex-start;
+	align-items: flex-start;
+	padding: 1rem;
+	margin: 1rem;
+	text-transform: uppercase;
+	font-family: 'Dosis', sans-serif;
+	flex-basis: 256px;
+}
+
+main {
+	display: flex;
+}
+
+.cloth {
+	background-color: #ff665a;
+	color: white;
+	padding: 10px;
+	margin: 5px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5px;
+	width: 200px;
+	text-decoration: none;
+}
+
+.electronics {
+	background-color: #ff665a;
+	color: white;
+	padding: 10px;
+	margin: 5px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5px;
+	width: 200px;
+	text-decoration: none;
+}
+
+.books {
+	background-color: #ff665a;
+	color: white;
+	padding: 10px;
+	margin: 5px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5px;
+	width: 200px;
+	text-decoration: none;
+}
+
+.food {
+	background-color: #ff665a;
+	color: white;
+	padding: 10px;
+	margin: 5px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5px;
+	width: 200px;
+	text-decoration: none;
+}
+
+.app {
+	background-color: #ff665a;
+	color: white;
+	padding: 10px;
+	margin: 5px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5px;
+	width: 200px;
+	text-decoration: none;
+}
+
+.sports {
+	background-color: #ff665a;
+	color: white;
+	padding: 10px;
+	margin: 5px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5px;
+	width: 200px;
+	text-decoration: none;
+}
+.toys {
+	background-color: #ff665a;
+	color: white;
+	padding: 10px;
+	margin: 5px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5px;
+	width: 200px;
+	text-decoration: none;
+}
+.garden {
+	background-color: #ff665a;
+	color: white;
+	padding: 10px;
+	margin: 5px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5px;
+	width: 200px;
+	text-decoration: none;
+}
+.categories a:hover {
+	box-shadow: 0 2px 5px -2px black;
+}
